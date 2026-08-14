@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-zzp6pn.date-me.pro/sitemap.xml
